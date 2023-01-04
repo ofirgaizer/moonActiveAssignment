@@ -1,0 +1,3 @@
+/Users/ofir/Projects/jokesAssignment/DependencyInjectiom/obj/Debug/netcoreapp3.1/DependencyInjection.AssemblyInfoInputs.cache
+/Users/ofir/Projects/jokesAssignment/DependencyInjectiom/obj/Debug/netcoreapp3.1/DependencyInjection.AssemblyInfo.cs
+/Users/ofir/Projects/jokesAssignment/DependencyInjectiom/obj/Debug/netcoreapp3.1/DependencyInjection.csproj.CoreCompileInputs.cache

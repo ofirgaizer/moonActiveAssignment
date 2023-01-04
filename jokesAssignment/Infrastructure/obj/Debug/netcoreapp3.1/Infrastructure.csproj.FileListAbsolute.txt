@@ -1,0 +1,8 @@
+/Users/ofir/Projects/jokesAssignment/moonAcitve/bin/Debug/netcoreapp3.1/Infrastructure.deps.json
+/Users/ofir/Projects/jokesAssignment/moonAcitve/bin/Debug/netcoreapp3.1/Infrastructure.dll
+/Users/ofir/Projects/jokesAssignment/moonAcitve/bin/Debug/netcoreapp3.1/Infrastructure.pdb
+/Users/ofir/Projects/jokesAssignment/moonAcitve/obj/Debug/netcoreapp3.1/Infrastructure.AssemblyInfoInputs.cache
+/Users/ofir/Projects/jokesAssignment/moonAcitve/obj/Debug/netcoreapp3.1/Infrastructure.AssemblyInfo.cs
+/Users/ofir/Projects/jokesAssignment/moonAcitve/obj/Debug/netcoreapp3.1/Infrastructure.csproj.CoreCompileInputs.cache
+/Users/ofir/Projects/jokesAssignment/moonAcitve/obj/Debug/netcoreapp3.1/Infrastructure.dll
+/Users/ofir/Projects/jokesAssignment/moonAcitve/obj/Debug/netcoreapp3.1/Infrastructure.pdb
